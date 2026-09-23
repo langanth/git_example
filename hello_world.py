@@ -1,2 +1,2 @@
-msg = input()
-print(msg)
+msg = input("Please enter your name: ")
+print(f'Hello there, {msg}')

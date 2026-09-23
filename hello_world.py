@@ -1,2 +1,3 @@
-msg = input("Please enter your name: ")
-print(f'Hello there, {msg}')
+msg = input()
+print(msg)
+print('bad')
